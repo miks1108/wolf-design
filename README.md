@@ -3,9 +3,10 @@
 
 Проект работает на yii framework 2.0
 
-[Официальный сайт yii framework](http://www.yiiframework.com/).
-[Официальная документация](http://www.yiiframework.com/doc-2.0/).
-[Русскоязычное руководство](https://yiiframework.com.ua/ru/doc/guide/2/).
+### Ссылки:
+[Официальный сайт yii framework](http://www.yiiframework.com/);
+[Официальная документация](http://www.yiiframework.com/doc-2.0/);
+[Русскоязычное руководство](https://yiiframework.com.ua/ru/doc/guide/2/);
 
 DIRECTORY STRUCTURE
 -------------------
